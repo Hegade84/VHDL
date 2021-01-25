@@ -1,13 +1,4 @@
--- @team-members:
---     AMOUSSOU Z. Kenneth
---     Rushikesh Munde
---     Nitinchandra Hegade
---     Srinivasan Balakrishnan
---     Mahenth Jayakumar
---     Hatem Ahmed
---
--- @date: 22.11.2020
---
+
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
